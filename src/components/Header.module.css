@@ -1,0 +1,14 @@
+.header{
+    background-color: #0786CE;
+}
+
+.escrita_h a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.escrita_h:hover{
+    color: #FF7C03;
+    transition: all 0.5ms;
+}
